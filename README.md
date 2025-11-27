@@ -31,5 +31,17 @@ Intel(R) Graphics [0xe211
 
 ```bash
 pip install xinference
+````
 
-启动项目】
+## 启动项目
+
+```bash
+pip install xinference
+````
+<img width="1920" height="1163" alt="image" src="https://github.com/user-attachments/assets/7692666e-77b7-46d4-816e-43da537f270b" />
+
+## 尝试用vllm启动模型
+```bash
+pip install xinference[vllm]
+````
+
