@@ -42,4 +42,6 @@ xinference-local --host 0.0.0.0 --port 9997
 
 <img width="1912" height="1094" alt="image" src="https://github.com/user-attachments/assets/cc020201-e6ab-4edf-8a5a-93368b25ecfd" />
 
+<img width="1696" height="443" alt="image" src="https://github.com/user-attachments/assets/bd128eee-a316-483c-8ab6-61569a014080" />
+
 
